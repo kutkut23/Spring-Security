@@ -1,4 +1,4 @@
-package com.security.SpringSecurity;
+package com.security.SpringSecurity.controller;
 
 import jakarta.servlet.http.HttpServletRequest;
 import lombok.extern.slf4j.Slf4j;
