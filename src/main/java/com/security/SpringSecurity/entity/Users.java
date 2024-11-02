@@ -9,6 +9,18 @@ public class Users {
     @Id
     private int id;
 
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public void setUserName(String userName) {
+        this.userName = userName;
+    }
+
+    public void setPassword(String password) {
+        this.password = password;
+    }
+
     private String userName;
 
     private String password;
